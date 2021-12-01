@@ -33,25 +33,20 @@ var Poker = (function () {
 		ante: "$800",
 		duration: 900
       }, {
-        small: "$500/",
-        big: "$1,000/",
-		ante: "$1,000",
-		duration: 900
+        small: "Break",
+        big: "",
+		ante: "",
+		duration: 420
       }, {
         small: "$600/",
         big: "$1,200/",
 		ante: "$1,200",
-		duration: 900
+		duration: 1200
       }, {
         small: "$800/",
         big: "$1,600/",
 		ante: "$1,600",
-		duration: 900
-      }, {
-        small: "Break",
-        big: "",
-		ante: "",
-		duration: 500
+		duration: 1200
       }, {
         small: "$1,000/",
         big: "$2,000/",
