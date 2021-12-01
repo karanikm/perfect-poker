@@ -1,6 +1,6 @@
 var Poker = (function () {
   var round = 1,
-      duration = 1200,
+      duration = 900,
       timer = duration,
       blinds = [{
         small: "$100/",
