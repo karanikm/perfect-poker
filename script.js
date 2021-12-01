@@ -56,57 +56,57 @@ var Poker = (function () {
         small: "$1,000/",
         big: "$2,000/",
 		ante: "$2,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$2,000/",
         big: "$4,000/",
 		ante: "$4,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$3,000/",
         big: "$6,000/",
 		ante: "$6,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$4,000/",
         big: "$8,000/",
 		ante: "$8,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$5,000/",
         big: "$10,000/",
 		ante: "$10,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$6,000/",
         big: "$12,000/",
 		ante: "$12,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$7,000/",
         big: "$14,000/",
 		ante: "$14,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$8,000/",
         big: "$16,000/",
 		ante: "$16,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$9,000/",
         big: "$18,000/",
 		ante: "$18,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$10,000/",
         big: "$20,000/",
 		ante: "$20,000",
-		duration: 1500
+		duration: 1200
       }, {
         small: "$12,000/",
         big: "$24,000/",
 		ante: "$24,000",
-		duration: 1500
+		duration: 1200
       }],
       interval_id;
   
