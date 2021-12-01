@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Perfect Moving Poker Night</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="poker_clock" class="clearfix">
+  <h1 style="background:white; opacity: 1;"><img src="https://perfectmoving.com/wp-content/uploads/2021/04/perfect-moving-logo-300h.png" width="300px"/></h1>
+  
+  <h2 id="round">Round 1</h2>
+  <div class="clock">20:00</div>
+  
+  <div id="poker_blinds">
+    <div class="blinds">
+      <span class="small-blind">$100/</span>
+      <span class="big-blind">$100</span>
+	  <span class="ante-blind"></span>
+    </div>
+    <span>Blinds</span>
+	<div id="poker_play_pause">
+    <a href="#/" title="Play/Pause" class="play">
+      <span></span>
+    </a>
+  </div>
+  
+  <div id="poker_next_round">
+    <a href="#/" title="Next Round">></a>
+  </div>
+  </div>
+  
+  <a href="#" class="reset">Reset</a>
+  
+  <audio id="alarm" controls="controls">
+  <source src="http://soundjax.com/reddo/73797%5Ealarmclock.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
