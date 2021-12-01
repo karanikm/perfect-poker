@@ -6,51 +6,51 @@ var Poker = (function () {
         small: "$100/",
         big: "$100",
 		ante: "",
-		duration: 1200
+		duration: 900
       }, {
         small: "$100/",
         big: "$100/",
 		ante: "$100",
-		duration: 1200
+		duration: 900
       }, {
         small: "$100/",
         big: "$200/",
 		ante: "$200",
-		duration: 1200
+		duration: 900
       }, {
         small: "$200/",
         big: "$400/",
 		ante: "$400",
-		duration: 1200
+		duration: 900
       }, {
         small: "$300/",
         big: "$600/",
 		ante: "$600",
-		duration: 1200
+		duration: 900
       }, {
         small: "$400/",
         big: "$800/",
 		ante: "$800",
-		duration: 1200
+		duration: 900
       }, {
         small: "$500/",
         big: "$1,000/",
 		ante: "$1,000",
-		duration: 1200
+		duration: 900
       }, {
         small: "$600/",
         big: "$1,200/",
 		ante: "$1,200",
-		duration: 1200
+		duration: 900
       }, {
         small: "$800/",
         big: "$1,600/",
 		ante: "$1,600",
-		duration: 1200
+		duration: 900
       }, {
-        small: "$Break",
-        big: "$",
-		ante: "$",
+        small: "Break",
+        big: "",
+		ante: "",
 		duration: 500
       }, {
         small: "$1,000/",
